@@ -1,3 +1,7 @@
+<div align="center">
+  <img height="390" src="https://scontent.fbbi3-1.fna.fbcdn.net/v/t39.30808-6/323624120_703506541135196_3284610199530963040_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=9c7eae&_nc_ohc=XQueBDIJI6gAX8jgVxn&_nc_ht=scontent.fbbi3-1.fna&oh=00_AfBy69hoJf6AH3SxXtb1gBDLD_FOYcmG3oovniXoycKWgA&oe=6584B2E4"  />
+</div>
+
 ### Hi there 👋
 # 💫 About Me:
 ✍ Currently Learning Data Science<br>📧 Email: purushotampatel96@gmail.com<br>💫 I'm Looking for collaboration in ML projects 
